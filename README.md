@@ -1,0 +1,2 @@
+# SharedClass
+Just for class
